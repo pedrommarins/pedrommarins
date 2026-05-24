@@ -4,7 +4,7 @@
 > whoami
 
 Pedro Marins
-FTTH Network Designer | Telecom Enthusiast | Tech Explorer
+FTTH Network Designer | Telecom Enthusiast | Tech Explorer | Java
 Living in Portugal 🇵🇹
 ```
 
@@ -18,7 +18,7 @@ public class Pedro {
     String name = "Pedro Marins";
     String country = "Portugal";
     String origin = "Brazil";
-    String area = "Telecom / FTTH";
+    String area = "Telecom / FTTH / Java";
 
     String[] interests = {
         "Networking",
@@ -27,7 +27,6 @@ public class Pedro {
         "Cybersecurity",
         "Artificial Intelligence",
         "Development",
-        "Linux"
     };
 
     String[] currentFocus() {
@@ -35,7 +34,7 @@ public class Pedro {
             "FTTH Projects",
             "QGIS",
             "AutoCAD",
-            "Learning Java",
+            "Java Development",
             "Remote Work",
             "Building Digital Income"
         };
